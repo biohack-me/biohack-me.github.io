@@ -1,0 +1,8 @@
+title: Biohack.me
+description: >
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://biohack.me" # the base hostname & protocol for your site
+markdown: kramdown
+ignore:
+  - README.md
+  - LICENSE

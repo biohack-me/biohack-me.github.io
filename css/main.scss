@@ -1,0 +1,64 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$color-grey: #2a2a2a;
+$color-white: #fff;
+$color-purple: rgb(93,18,94);
+
+$size-default: 11pt;
+$size-large: 16pt;
+
+body {
+  background-color: $color-grey;
+  color: $color-white;
+  font-family: 'Helvetica Neue', Arial, Helvetica, 'lucida grande', 'Lucida Sans Unicode', tahoma, sans-serif;
+  text-align: center;
+  font-size: $size-default;
+  margin: 0;
+}
+
+a {
+  color: $color-white;
+  text-decoration: none;
+
+  &:hover {
+    color: $color-purple;
+  }
+}
+
+h1 {
+  font-size: $size-large;
+  font-weight: normal;
+  margin: 0 0 0.2em;
+}
+
+.sigil {
+  background: transparent url("/img/sigil_white.png") no-repeat scroll center center;
+  height: 75px;
+  width: 75px;
+  margin: 50px auto 3em;
+}
+
+.links {
+  font-size: $size-large;
+
+  a {
+    display: inline-block;
+    padding: 2px 10px;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    font-size: $size-default;
+    margin: 0 0 2em;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
