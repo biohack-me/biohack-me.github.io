@@ -43,22 +43,33 @@ h1 {
 }
 
 .links {
-  font-size: $size-large;
+  font-size: $size-default;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
 
   a {
-    display: inline-block;
+    display: block;
     padding: 2px 10px;
-    margin-bottom: 0.5em;
+    font-size: $size-large;
+  }
+
+  h1 {
+    font-size: $size-large;
+    margin: 0 0 0.4em;
   }
 
   p {
-    font-size: $size-default;
+    margin: 0 0 0.5em;
+  }
+
+  li {
     margin: 0 0 2em;
   }
 
   ul {
     list-style: none;
-    margin: 0;
+    margin: 2em 0 0;
     padding: 0;
   }
 }
