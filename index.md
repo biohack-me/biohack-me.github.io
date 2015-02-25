@@ -12,3 +12,10 @@ Virtual home of grinders everywhere.
 * [Wiki](http://wiki.biohack.me)
 
   Contribute to our growing body of knowledge and make the community better, stronger, and more intelligent, so that we can make people... better, stronger, and more intelligent.
+
+
+* IRC
+
+  Server: **chat.freenode.net** 
+
+  Channel: **##biohack**
