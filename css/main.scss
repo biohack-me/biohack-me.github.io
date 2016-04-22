@@ -6,7 +6,8 @@
 
 $color-grey: #2a2a2a;
 $color-white: #fff;
-$color-purple: rgb(154,41,177);
+$color-purple: rgb(93,18,94);
+$link-purple: rgb(154,41,177);
 
 $size-default: 11pt;
 $size-large: 16pt;
@@ -29,7 +30,8 @@ a {
   }
 }
 
-.Message a&:hover{
+.Message a{
+  color: $link-purple;
   text-decoration: underline;
 }
 
