@@ -5,7 +5,7 @@ layout: index
 # Biohack.me
 Virtual home of grinders everywhere.
 
-* [Forum](http://forum.biohack.me/categories/all)
+* [Forum](http://forum.biohack.me)
 
   A place to talk about grinder issues, ask questions, and get answsers.
 
