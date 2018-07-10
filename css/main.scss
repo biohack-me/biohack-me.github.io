@@ -41,16 +41,16 @@ h1 {
   margin: 0 0 0.2em;
 }
 
-.sigil {
+#sigil {
   background: transparent url("/img/sigil_white.png") no-repeat scroll center center;
   height: 75px;
   width: 75px;
   margin: 50px auto 3em;
 }
 
-.links {
+#links {
   font-size: $size-default;
-  width: 100%;
+  width: 80%;
   max-width: 400px;
   margin: 0 auto;
 
@@ -82,4 +82,11 @@ h1 {
     margin: 2em 0 0;
     padding: 0;
   }
+}
+
+#content {
+  font-size: $size-default;
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto;
 }
