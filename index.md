@@ -19,6 +19,6 @@ Virtual home of grinders everywhere.
 
 * IRC
 
-  Server: **chat.freenode.net** 
+  `chat.freenode.net`
 
-  Channel: **##biohack**
+  `##biohack`
