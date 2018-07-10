@@ -22,7 +22,7 @@ body {
 }
 
 a {
-  color: $color-white;
+  color: $link-purple;
   text-decoration: none;
 
   &:hover {
@@ -58,6 +58,10 @@ h1 {
     display: block;
     padding: 2px 10px;
     font-size: $size-large;
+    color: $color-white;
+    &:hover {
+      color: $color-purple;
+    }
   }
 
   h1 {
