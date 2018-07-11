@@ -31,7 +31,7 @@ Harassment includes:
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
 * Deliberate “outing” of any aspect of a person’s identity, activities, or modifications without their consent except as necessary to protect others
-* Publication of non-harassing private communication or photos without consent by the involved parties
+* Collection or redistribution of non-harassing communication or photos without the explicit consent of the involved parties
 
 Biohack.me prioritizes marginalized people’s safety over privileged people’s comfort. We reserve the right not to act on complaints regarding:
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
