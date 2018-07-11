@@ -43,7 +43,7 @@ Biohack.me prioritizes marginalized people’s safety over privileged people’s
 
 Anyone asked to stop any harassing behavior is expected to comply immediately.
 
-If a participant engages in harassing behavior, Biohack.me organizers may take any action we deem appropriate, up to and including banning from all Biohack.me spaces and identification of the participant as a harasser to other grinding community members or the general public.
+If anyone engages in harassing behavior, Biohack.me organizers may take any action we deem appropriate, up to and including banning them from all Biohack.me spaces and identifying them as a harasser to other grinder community members or the general public.
 
 # Reporting and Enforcement
 
