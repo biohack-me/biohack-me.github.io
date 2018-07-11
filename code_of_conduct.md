@@ -41,7 +41,7 @@ Biohack.me prioritizes marginalized people’s safety over privileged people’s
 
 # Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Anyone asked to stop any harassing behavior is expected to comply immediately.
 
 If a participant engages in harassing behavior, Biohack.me organizers may take any action we deem appropriate, up to and including banning from all Biohack.me spaces and identification of the participant as a harasser to other grinding community members or the general public.
 
