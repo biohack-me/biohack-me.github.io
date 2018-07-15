@@ -37,7 +37,7 @@ Biohack.me prioritizes marginalized people’s safety over privileged people’s
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 * Communicating in a ‘tone’ you don’t find congenial
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+* Criticizing dangerous, racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
 # Consequences
 
