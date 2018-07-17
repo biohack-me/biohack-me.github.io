@@ -10,9 +10,13 @@ This policy informs you of the types of personal data we collect from users of B
 
 We use your personal information only for providing and improving Biohack.me. By using Biohack.me, you agree to the collection and use of information in accordance with this policy.
 
-# Information Collection And Use
+# Information Collection and Use
 
-When using the forums or or contributing other data to our community we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your email address and handle.
+When using the forums or or contributing other data to our community we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your email address and username or handle.
+
+We don't run advertising, and we don't sell your data.
+
+All information and communications you submit to and via Biohack.me are stored in a database. Passwords are hashed, but all other data is stored in cleartext. While we do not make a habit of poring through the database to read your personal messages, everyone with database access has access to see them, inclusing our web host, who may look at them without our knowledge if required by U.S. law.
 
 # Log Data
 
@@ -38,13 +42,13 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 The security of your personal information is important to us, but remember that no method of transmission over the internet, or method of electronic storage, is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security, because absolute security does not exist.
 
-# Changes To This Privacy Policy
+# Changes to this Privacy Policy
 
-This Privacy Policy is effective as of (add date) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+Updates to this policy may be made from time to time to reflect changes in how we operate, new technologies we adopt, etc. Any updates will take effect immediately upon being posted here, and your continued use of Biohack.me after these updates will constitute your acknowledgment of the changes and your consent to the modified policy.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+This policy and all its previous revisions are [available on the Biohack.me github](https://github.com/biohack-me/biohack-me.github.io/blob/master/privacy.md){:target="_blank"}.
 
 # Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [webmaster@biohack.me](mailto:webmaster@biohack.me){:target="_blank"}.
+If you have any questions about this policy, please contact us at [webmaster@biohack.me](mailto:webmaster@biohack.me){:target="_blank"}.
 
