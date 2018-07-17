@@ -53,4 +53,4 @@ If you are being harassed by a member of the Biohack.me community, notice that s
 
 This policy was inspired by and adapted from the [XOXO Community Code of Conduct](https://2018.xoxofest.com/conduct){:target="_blank"} which is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/){:target="_blank"} license and is [available on GitHub](https://github.com/xoxo/conduct){:target="_blank"}.
 
-This policy is itself [available on the biohack.me github](https://github.com/biohack-me/biohack-me.github.io/blob/master/code_of_conduct.md){:target="_blank"}, where you should feel free to submit bug reports or pull requests.
+This policy is itself [available on the Biohack.me github](https://github.com/biohack-me/biohack-me.github.io/blob/master/code_of_conduct.md){:target="_blank"}, where you should feel free to submit bug reports or pull requests.
