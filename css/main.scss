@@ -48,6 +48,27 @@ h1 {
   margin: 50px auto 3em;
 }
 
+#footer {
+  margin: 3em auto 1em auto;
+  font-size: 80%;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0 1em 0 1em;
+      padding: 0;
+      display: inline-block;
+      a {
+        color: $color-white;
+        &:hover {
+          color: $color-purple;
+        }
+      }
+    }
+  }
+}
+
 #links {
   font-size: $size-default;
   width: 80%;
