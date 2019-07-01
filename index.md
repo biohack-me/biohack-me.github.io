@@ -7,7 +7,7 @@ Virtual home of grinders everywhere.
 
 * [Forum](https://forum.biohack.me)
 
-  A place to talk about grinder issues, ask questions, and get answsers.
+  A place to talk about grinder issues, ask questions, and get answers.
 
 * [Wiki](http://wiki.biohack.me)
 
