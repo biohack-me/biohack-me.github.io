@@ -10,9 +10,3 @@ Virtual home of [grinders](https://en.wikipedia.org/wiki/Grinder_(biohacking)) e
 * [Wiki](http://wiki.biohack.me)
 
 * [Slack](https://bhme-slack.herokuapp.com/)
-
-* IRC
-
-  `chat.freenode.net`
-
-  `##biohack`
