@@ -90,15 +90,13 @@ h1 {
     padding: 0;
     li {
       margin: 0 0 2em;
-      p:first-child {
-        font-size: $size-large;
-        a {
-          display: block;
-          padding: 2px 10px;
-          color: $color-white;
-          &:hover {
-            color: $color-purple;
-          }
+      font-size: $size-large;
+      a {
+        display: block;
+        padding: 2px 10px;
+        color: $color-white;
+        &:hover {
+          color: $color-purple;
         }
       }
     }
