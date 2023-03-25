@@ -5,6 +5,8 @@ layout: index
 # Biohack.me
 Virtual home of [grinders](https://en.wikipedia.org/wiki/Grinder_(biohacking)) everywhere.
 
+* [Wiki](http://wiki.biohack.me)
+
 * [Slack](https://join.slack.com/t/grindsyndicate/shared_invite/zt-1naxew58y-Z~jORpFKt5tdi9xhk_4uZA)
 
 <div class="jekyll-twitter-plugin" align="center">
