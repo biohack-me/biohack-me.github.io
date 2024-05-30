@@ -24,5 +24,3 @@ The development site should now be available at `http://localhost:4000`.
 2. Clone your forked repository
 3. Commit your changes
 4. Open a [Pull Request](https://github.com/biohack-me/biohack-me.github.io/compare)
-
-If you are proposing a large or controversial change, please post a thread on the [Biohack.me Forum](http://forum.biohack.me) to solicit general feedback from the community and post a link to that discussion in the Pull Request.
