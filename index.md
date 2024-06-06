@@ -11,4 +11,4 @@ Virtual home of [grinders](https://en.wikipedia.org/wiki/Grinder_(biohacking)) e
 
 * [Wiki](https://wiki.biohack.me)
 
-* [Slack](https://join.slack.com/t/grindsyndicate/shared_invite/zt-1rypathh0-FhdgZ1I6iNGxOICjH80l5w)
+* [Discord](https://discord.gg/qtnE8T3)
