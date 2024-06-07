@@ -6,7 +6,7 @@ permalink: /code_of_conduct/
 
 # Code of Conduct
 
-Everyone participating in the Biohack.me community— including, but not limited to the Biohack.me [forums](https://forum.biohack.me/){:target="_blank"}, [Slack channel](https://grindsyndicate.slack.com/){:target="_blank"}, and events like Grindfest— is required to agree to the following Code of Conduct.
+Everyone participating in the Biohack.me community— including, but not limited to the Biohack.me online spaces and events like Grindfest— is required to agree to the following Code of Conduct.
 
 We are dedicated to providing a respectful, open, harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of community members in any form.
 
