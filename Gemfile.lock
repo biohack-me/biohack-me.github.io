@@ -58,7 +58,7 @@ GEM
     rexml (3.3.7)
     rouge (4.4.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.79.1)
+    sass-embedded (1.79.3)
       google-protobuf (~> 4.27)
       rake (>= 13)
     terminal-table (3.0.2)
