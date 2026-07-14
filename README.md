@@ -18,6 +18,8 @@ jekyll server
 
 The development site should now be available at `http://localhost:4000`.
 
+This repo is set up with [betterleaks](https://github.com/betterleaks/betterleaks) as a pre-commit check, so before committing any changes you will need to install that locally.
+
 ## Contributing
 
 1. [Fork](https://github.com/biohack-me/biohack-me.github.io/fork) this repository
