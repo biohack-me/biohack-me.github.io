@@ -6,5 +6,3 @@ markdown: kramdown
 ignore:
   - README.md
   - LICENSE
-plugins:
-  - jekyll-twitter-plugin
